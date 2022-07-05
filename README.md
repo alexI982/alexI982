@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexI982
-- 👀 I’m interested in em programação
+- 👀 I’m interested in programação de jogor e python
 - 🌱 I’m currently learning nada
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me...
